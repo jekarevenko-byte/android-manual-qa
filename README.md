@@ -14,7 +14,7 @@
 android-manual-qa/
 ├── docs/
 │   ├── test-object.md          ← приложение, версия, устройства, ограничения
-│   ├── mobile-checklist.md     ← чек-лист на 60 проверок (10 категорий)
+│   ├── mobile-checklist.md     ← чек-лист на 57 проверок (10 категорий)
 │   └── severity-priority.md    ← как назначать Severity и Priority
 ├── test-cases/
 │   ├── test-case-template.md   ← шаблон тест-кейса
